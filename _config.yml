@@ -29,7 +29,7 @@ nav:
     href:           "/about"
   - name:           "Download"
     href:           "/releases"
-  - name:         "somthing"
+  - name:           "somthing"
     href:           "/ll"
 
 sass:
