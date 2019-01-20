@@ -16,7 +16,7 @@ disqus_shortname:   "Yike"
 
 background:         "back.jpg"
 
-paginate:           5
+paginate:           10
 paginate_path:      "/page:num/"
 
 baseurl:            ""
