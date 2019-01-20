@@ -27,10 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
-  - name:           "somthing"
-    href:           "/ll"
+  - name:           "Other Blogs"
+    href:           "/bloglist"
 
 sass:
   style:            :compressed
